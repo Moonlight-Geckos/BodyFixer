@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 793d382a2f2a8ed40b56e43557dad9a7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - levelCustomize: {fileID: 11400000, guid: 8d91cbed6118b854d83f755b24b988c5, type: 2}
+  - target: {instanceID: 0}
+  - particleWellDone1: {instanceID: 0}
+  - particleWellDone2: {instanceID: 0}
+  - particleBrilliant1: {instanceID: 0}
+  - particleBrilliant2: {instanceID: 0}
+  - particle: {instanceID: 0}
+  - material: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

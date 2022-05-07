@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - drag
+  - LeftArm_Target
+  - RightArm_Target
+  - LeftLeg_Target
+  - RightLeg_Target
+  - Hip_Target
+  - Head_Target
+  - TopBody_Target
+  - LeftArm_Goal
+  - RightArm_Goal
+  - LeftLeg_Goal
+  - RightLeg_Goal
+  - Hip_Goal
+  - TopBody_Goal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
