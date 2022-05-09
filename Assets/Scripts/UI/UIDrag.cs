@@ -33,6 +33,7 @@ public class UIDrag : MonoBehaviour
     private bool isDragged = false;
     private Transform desiredGoal;
 
+    // a new different change
     private void Awake()
     {
         EventTrigger eventTrigger = GetComponent<EventTrigger>();
