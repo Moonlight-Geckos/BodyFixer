@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 1160810613}
-  m_IndirectSpecularColor: {r: 0.44657832, g: 0.49641407, b: 0.5748176, a: 1}
+  m_IndirectSpecularColor: {r: 0.4465782, g: 0.4964134, b: 0.5748167, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1161,10 +1161,34 @@ PrefabInstance:
     - target: {fileID: 1915614206, guid: dda9c2d9114a76444b17f84ce701c445, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 3d64019744f17f845bed51aca39d4118, type: 3}
+      objectReference: {fileID: 21300000, guid: 2ace456c98bd7174fb6a364459d9766e, type: 3}
     - target: {fileID: 1960475152, guid: dda9c2d9114a76444b17f84ce701c445, type: 3}
       propertyPath: m_text
       value: Help her out
+      objectReference: {fileID: 0}
+    - target: {fileID: 1960475152, guid: dda9c2d9114a76444b17f84ce701c445, type: 3}
+      propertyPath: m_fontStyle
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1960475152, guid: dda9c2d9114a76444b17f84ce701c445, type: 3}
+      propertyPath: m_fontColor.a
+      value: 0.5372549
+      objectReference: {fileID: 0}
+    - target: {fileID: 1960475152, guid: dda9c2d9114a76444b17f84ce701c445, type: 3}
+      propertyPath: m_fontColor.b
+      value: 0.48627454
+      objectReference: {fileID: 0}
+    - target: {fileID: 1960475152, guid: dda9c2d9114a76444b17f84ce701c445, type: 3}
+      propertyPath: m_fontColor.g
+      value: 0.89019614
+      objectReference: {fileID: 0}
+    - target: {fileID: 1960475152, guid: dda9c2d9114a76444b17f84ce701c445, type: 3}
+      propertyPath: m_fontColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1960475152, guid: dda9c2d9114a76444b17f84ce701c445, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 2306663423
       objectReference: {fileID: 0}
     - target: {fileID: 1209518517729065466, guid: dda9c2d9114a76444b17f84ce701c445, type: 3}
       propertyPath: m_AnchorMax.y
@@ -1801,7 +1825,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3839308456099562592, guid: 1acb2e4c8e5570046aabcd77028a1d70, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -508.48
+      value: -508.812
       objectReference: {fileID: 0}
     - target: {fileID: 3839308456099562592, guid: 1acb2e4c8e5570046aabcd77028a1d70, type: 3}
       propertyPath: m_LocalPosition.z

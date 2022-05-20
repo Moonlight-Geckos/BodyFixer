@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.2621677, g: 0.48057204, b: 0.4288759, a: 1}
+  m_IndirectSpecularColor: {r: 0.26215824, g: 0.48057222, b: 0.42886585, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -735,7 +735,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b17c45b62aed52f46af58fa39612d0fc, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.41
+      value: 2.088
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b17c45b62aed52f46af58fa39612d0fc, type: 3}
       propertyPath: m_LocalPosition.y
@@ -6334,7 +6334,7 @@ PrefabInstance:
     - target: {fileID: 1915614206, guid: dda9c2d9114a76444b17f84ce701c445, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 16ac8afece8f3a1438ec8402033b9b0e, type: 3}
+      objectReference: {fileID: 21300000, guid: 2707fd59ad02e7949802330398c69c39, type: 3}
     - target: {fileID: 1209518517729065466, guid: dda9c2d9114a76444b17f84ce701c445, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -7462,7 +7462,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e9ff83e073430f44491d790f985e6c68, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -0.36
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e9ff83e073430f44491d790f985e6c68, type: 3}
       propertyPath: m_LocalPosition.z
@@ -7527,7 +7527,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b17c45b62aed52f46af58fa39612d0fc, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.37
+      value: -2.04
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b17c45b62aed52f46af58fa39612d0fc, type: 3}
       propertyPath: m_LocalPosition.y

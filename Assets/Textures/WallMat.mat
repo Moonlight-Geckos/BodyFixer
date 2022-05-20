@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Wood
+  m_Name: WallMat
   m_Shader: {fileID: 4800000, guid: 81ae609a37b59f043ac4256abae11b2e, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -67,9 +67,9 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _GlossMapScale: 1
-    - _Glossiness: 0
+    - _Glossiness: 0.69
     - _GlossyReflections: 1
-    - _Metallic: 0
+    - _Metallic: 0.1
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
@@ -81,9 +81,9 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.6792453, g: 0.5321386, b: 0.32936987, a: 1}
+    - _Color: {r: 0.42267036, g: 0.7924528, b: 0.2953008, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _HColor: {r: 0.0754717, g: 0.0754717, b: 0.0754717, a: 1}
+    - _HColor: {r: 0.83458304, g: 0.9245283, b: 0.8155037, a: 1}
     - _RimColor: {r: 0.8, g: 0.8, b: 0.8, a: 0.6}
-    - _SColor: {r: 0.5188679, g: 0.22154982, b: 0, a: 1}
+    - _SColor: {r: 0.7735849, g: 0.7735849, b: 0.7735849, a: 1}
   m_BuildTextureStacks: []
