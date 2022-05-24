@@ -12,7 +12,6 @@ enum RiggingType
 }
 public class UIDrag : MonoBehaviour
 {
-    [TagSelector]
     [SerializeField]
     private string targetTag = "";
     [SerializeField]

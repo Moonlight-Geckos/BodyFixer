@@ -1,12 +1,10 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Animations.Rigging;
 using UnityEngine.EventSystems;
 
 public class UIRotate : MonoBehaviour
 {
-    [TagSelector]
     [SerializeField]
     private string targetTag = "";
     [SerializeField]

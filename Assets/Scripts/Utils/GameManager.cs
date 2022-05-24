@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -30,6 +31,7 @@ public class GameManager : MonoBehaviour
     private void Start()
     {
         EventPool.BodyDragged.AddListener(CheckPerformance);
+        TinySauce.OnGameStarted(SceneManager.GetActiveScene().buildIndex.ToString());
     }
     private void CheckPerformance()
     {
@@ -70,6 +72,7 @@ public class GameManager : MonoBehaviour
     public void Finish()
     {
         EventPool.finishedFixing.Invoke(percent);
+        TinySauce.OnGameFinished(true, percent, SceneManager.GetActiveScene().buildIndex.ToString());
     }
 }
 
